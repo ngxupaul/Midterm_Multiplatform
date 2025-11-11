@@ -1,4 +1,6 @@
 My Tasks — Capacitor + React
+Author
+- Nguyễn Xuân Phong — Student ID: 22IT221
 
 A simple mobile To‑Do app with local persistence using Capacitor Storage.
 
@@ -61,7 +63,4 @@ How to Use (Step-by-step)
 4) Delete a task:
    - Swipe left on the task and tap Delete, or
    - Long‑press the task and confirm the prompt.
-
-Author
-- Nguyễn Xuân Phong — Student ID: 22IT221
 
